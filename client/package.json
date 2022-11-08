@@ -16,7 +16,7 @@
     "bulma": "^0.8.2",
     "graphql": "^15.0.0",
     "graphql-tag": "^2.10.3",
-    "next": "9.4.2",
+    "next": "13.0.2",
     "next-compose-plugins": "^2.2.0",
     "next-with-apollo": "^5.0.1",
     "node-sass": "^4.14.1",
